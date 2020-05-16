@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    height: 80vh;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.center-search {
+    display: flex;
+    flex-direction: column;
+}
+
+.button {
+    background-color: grey
+}
